@@ -1,7 +1,5 @@
 # Implementation of methods for protecting information during transmission over unsecured channels: IDS + Encryption
 
-This project demonstrates a basic security system with Intrusion Detection System (IDS) and TLS-based encryption combined. It is divided into two .zip files. 
-
 # Layer 1: AI-based Intrusion Detection System (IDS) Layer
 
 Step 1: Unzip the AI Folder
